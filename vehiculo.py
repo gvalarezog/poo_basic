@@ -1,4 +1,4 @@
-
+#Guillermo Valarezo
 class Vehiculo:
     def __init__(self, marca, modelo, pais_procedencia, ano_fabricacion, tipo_combustible=None, chasis=None, cilindraje=None):
         self.marca = marca

@@ -1,4 +1,4 @@
-
+#Guillermo Valarezo
 class Persona:
     '''
     Crear los objetos de tipo Persona
