@@ -1,4 +1,4 @@
-from persona import Persona
+from herencia.persona import Persona
 
 class Empleado(Persona):
     def __init__(self, nombre, cedula, genero, ocupacion, sueldo):
